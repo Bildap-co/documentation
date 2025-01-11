@@ -17,7 +17,6 @@ While other boilerplate projects in the market focus primarily on the engineerin
 
 # Table of contents
 
-* [Bildap.co](README.md)
 * [Video Demo](video-demo.md)
 * [Features](features/README.md)
   * [Sales](features/sales.md)
