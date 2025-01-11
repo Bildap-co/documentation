@@ -8,4 +8,4 @@ This page allows you to perform the following actions:
 * Change visibility of a Testimonial field
 * Change priority of a Testimonial field
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/image (5).png" alt=""><figcaption></figcaption></figure>

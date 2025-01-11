@@ -8,4 +8,4 @@ This page allows you to perform the following actions:
 * Change visibility of a FAQ field
 * Change priority of a FAQ field
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/image (4).png" alt=""><figcaption></figcaption></figure>

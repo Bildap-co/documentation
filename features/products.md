@@ -4,4 +4,4 @@ Efficiently manage product listings using a streamlined system to quickly update
 
 Control inventory by managing product types and pricing, adapting to market changes to maintain a current catalog.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/image (7).png" alt=""><figcaption></figcaption></figure>

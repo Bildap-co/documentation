@@ -6,4 +6,4 @@ any pages created here will be available at the root level of the website.
 
 Here is the route representing this page: `/[contentSlug]`
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Admin > Simple Page Contents</p></figcaption></figure>
+<figure><img src="../../assets/image (2).png" alt=""><figcaption><p>Admin > Simple Page Contents</p></figcaption></figure>

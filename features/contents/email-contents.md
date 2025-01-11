@@ -2,7 +2,7 @@
 
 In this page you can update the contents that are being used for transactional email communications.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Admin > Email Contents Page</p></figcaption></figure>
+<figure><img src="../../assets/image (3).png" alt=""><figcaption><p>Admin > Email Contents Page</p></figcaption></figure>
 
 There are variables that you can use in order to define dynamic values on your template.
 

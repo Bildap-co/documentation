@@ -314,7 +314,7 @@ jobs:
 
 #### Once you created this file, You need to setup the secret and variables in Github repository settings:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Github Repository Setting for Secrets and variables related to Github Action Workflow</p></figcaption></figure>
+<figure><img src="../assets/image (1).png" alt=""><figcaption><p>Github Repository Setting for Secrets and variables related to Github Action Workflow</p></figcaption></figure>
 
 ```
 CICD_SA_PRINCIPAL: <CICD Service account principal>

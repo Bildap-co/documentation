@@ -10,10 +10,10 @@ For appointments, utilize Google Calendar for scheduling, pages content, and han
 
 Use Google Tag Manager to place scripts and consent-driven analytics, integrating GTM tags for Google AdWords to track events with precise ID placements.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/image (12).png" alt=""><figcaption></figcaption></figure>
