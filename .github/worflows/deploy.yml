@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages
+      - docs
 
 jobs:
   build:
@@ -47,3 +47,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Deploy to gh-pages branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan gh-pages
+          git --work-tree build add --all
+          git --work-tree build commit -m "Deploy"
+          git push origin HEAD:gh-pages --force
