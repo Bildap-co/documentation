@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bildap.co',
-  tagline: 'Documentation',
+  tagline: 'Knowledge Hub – Learn, Build, Grow',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
@@ -139,6 +139,11 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
       },
     }),
 };
