@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Documentation New
+# Documentation
 
 ## **Accelerate Your Development Process**
 
@@ -12,6 +12,6 @@ With pre-built features including design templates, integrated email systems, se
 
 Our ready-to-use solutions ensure your projects are up and running faster, giving you the ultimate competitive edge.
 
-**Why Choose bildap.co?**
+## Why Choose bildap.co?
 
 While other boilerplate projects in the market focus primarily on the engineering aspects with pre-configured code bases, bildap.co stands out by being product-centric. We emphasize essential tools and ready-to-use solutions, enabling you to launch your business swiftly with minimal customization. Experience unparalleled efficiency and focus on what truly matters—your product's success.
