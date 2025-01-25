@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - docs
+      - docs # Trigger deployment on the 'docs' branch
 
 jobs:
   build:
@@ -20,6 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+
       - name: Build website
         run: yarn build
 
@@ -34,10 +35,9 @@ jobs:
 
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
+      pages: write # To deploy to Pages
+      id-token: write # To verify the deployment originates from an appropriate source
 
-    # Deploy to the github-pages environment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -47,12 +47,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-      - name: Deploy to gh-pages branch
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan gh-pages
-          git --work-tree build add --all
-          git --work-tree build commit -m "Deploy"
-          git push origin HEAD:gh-pages --force
