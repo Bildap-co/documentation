@@ -17,7 +17,7 @@ Bildap is
   - Overview of Customers and registered users.
   - Update user's information on their profile.
   - Grant/Revoke access of any user to Admin
-- [**Contents**](contents/)
+- [**Contents**](contents/README.md)
   - Create, Update, and manage content seamlessly.
 - [**Settings**](settings.md)
   - Configure system preferences to suit your needs, here is some of the preferences outlined below:

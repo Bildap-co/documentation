@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - docs # Trigger deployment on the 'docs' branch
+      - docs
 
 jobs:
   build:
