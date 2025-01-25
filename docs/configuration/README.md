@@ -97,6 +97,6 @@ There are two ways to configure `.env` file:
 
   If you prefer GUI, We develop a GUI website to walk you through the configuration in an easy way and place the proper config on you `.env`file.
 
-- [Manually config `.env`file](.env/)
+- [Manually config `.env` file](environment-file/README.md)
 
   If you are more code savy, you can also configure the `.env`file manually and setup the parameters to your need.
