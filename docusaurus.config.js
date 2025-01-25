@@ -72,13 +72,8 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://bildap.co/terms-of-use',
-            label: 'Terms of Use',
-            position: 'right',
-          },
-          {
-            href: 'https://bildap.co/privacy-policy',
-            label: 'Privacy Policy',
+            href: 'https://bildap.co',
+            label: 'Bildap.co',
             position: 'right',
           },
         ],
@@ -87,15 +82,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Bildap.co',
+            title: 'Learn',
             items: [
               {
                 label: 'Documentation',
                 to: '/docs/intro',
               },
               {
-                label: 'Terms of Use',
-                href: 'https://bildap.co/terms-of-use',
+                label: 'Get Started Now',
+                href: 'https://bildap.co',
               },
             ],
           },
@@ -116,8 +111,30 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Support',
+            items: [
+              {
+                label: 'Email',
+                href: 'mailto:hey@bildap.co',
+              },
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Terms of Use',
+                href: 'https://bildap.co/terms-of-use',
+              },
+              {
+                label: 'Privacy Policy',
+                href: 'https://bildap.co/privacy-policy',
+              },
+            ],
+          },
         ],
-        copyright: `© bildap.co${new Date().getFullYear()}. All rights reserved.`,
+        copyright: `© bildap.co${new Date().getFullYear()}. All rights reserved.<br>75 E 3rd St. Sheridan, WY 82801`,
       },
       prism: {
         theme: prismThemes.github,
