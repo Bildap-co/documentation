@@ -1,11 +1,9 @@
+---
 name: Deploy GitHub Pages
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   push:
-    branches:
-      - docs
-  pull_request:
     branches:
       - docs
 
