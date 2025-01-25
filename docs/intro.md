@@ -2,6 +2,8 @@
 sidebar_position: 0
 ---
 
+# Documentation
+
 ## **Accelerate Your Development Process**
 
 bildap.co provides developers with an all-in-one platform designed to speed up the project launch process.&#x20;
