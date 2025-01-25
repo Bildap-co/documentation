@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Documentation
+# Documentation New
 
 ## **Accelerate Your Development Process**
 
