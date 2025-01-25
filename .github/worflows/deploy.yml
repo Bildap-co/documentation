@@ -33,7 +33,7 @@ jobs:
     name: Deploy to GitHub Pages
     needs: build
 
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    # Grant GITHUB_TOKEN the permissions required to make a Pages
     permissions:
       pages: write
       id-token: write
