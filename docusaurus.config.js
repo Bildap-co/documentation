@@ -92,6 +92,10 @@ const config = {
                 label: 'Get Started Now',
                 href: 'https://bildap.co',
               },
+              {
+                label: 'Affiliate Program',
+                href: 'https://bildap.co/affiliate',
+              },
             ],
           },
           {
